@@ -1,0 +1,19 @@
+meal,calories,ingredients,ethnicity,price,time
+Tostada,333,"Fried Corn Tortilla, Refried Beans, Shredded Cheese, Salsa",Mexican,10, Morning
+Quesadillas,528,"cheese, tortilla",Mexican,12.5, Morning
+Curry rice,400,"curry, rice",Indian,8, Morning
+Enchiladas,323,"Meat, Cheese, Potatoes, Vegetables, Beans, Tofu",Mexican,12, Morning
+Tacos,200,"carne asada, lettuce, cheese",Mexican,10, Morning
+Burritos,670,"tortilla,meat, rice, beans",Mexican,10, Morning
+Chimichanga,420,"Rice, Beans, Meat, Cheese",Mexican,14, Morning
+Carne asada fries,887,Flank Steak,Mexican,12, Morning
+Wet burrito,417,"Meat, Cheese, Beans, Rice, ",Mexican,14, Lunch
+Sopes,460,"Masa Harina, Water, Salt, Oil",Mexican,8, Lunch
+Hamburgers ,354,"Beef, Cheese, Lettuce, Buns ",American,11, Lunch
+Shrimp fajita,530,"Shrimp, Onions, Bell Pepper",Mexican,10, Lunch
+Churros,116,"Flour, Water, Salt",Mexican,9, other
+Tamales,284,"Meat, Corn, Potatoes, Peppers, Cheese, Carrots",Mexican,8, Lunch
+Nachos,600,"Tortilla Chips, Sheese, Jalapeño, Meat, Sour Cream, Salsa, Guacamole",Mexican,8,Dinner
+Hot dog,151,"Sausage, Bun, ",American,5, Dinner
+Orange Chicken,368,"Chicken, Soy Sauce, Garlic, Ginger, Sugar",Chinese,12, Dinner
+Chow Mein,1200,"Noodles, Meat, Onions, Celery",Chinese,11, Dinner
